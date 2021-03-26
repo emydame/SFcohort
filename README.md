@@ -1,2 +1,0 @@
-# SFcohort
-Cohort Frontend
